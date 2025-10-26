@@ -74,6 +74,7 @@ Build a rigorous, computational foundation in theoretical physics by:
 ---
 
 ## 📁 Repository Structure
+```
 physics-self-study/
 ├── notebooks/
 │   ├── mechanics/
@@ -81,7 +82,7 @@ physics-self-study/
 │   ├── probability/
 │   └── numerics/
 └── README.md
-
+```
 ---
 
 **Author:** Roger Nguyen  
